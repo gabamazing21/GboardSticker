@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695280902669",
+    "firebase_url": "https://leigh-jones.firebaseio.com",
+    "project_id": "leigh-jones",
+    "storage_bucket": "leigh-jones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695280902669:android:028e32be3003fdaebeeb44",
+        "android_client_info": {
+          "package_name": "com.example.leighjones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695280902669-8bvbkvbo6qlc4bdpqsiovevht4ip0sr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leighjones",
+            "certificate_hash": "f0f862264b79d186baad0d0442f1bf105eed2c9d"
+          }
+        },
+        {
+          "client_id": "695280902669-04moru0h3o85e0uqorsqipuib0c9fcvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGmqO-xmrAmC4Ululg3Ji5RCEKiG053DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695280902669-04moru0h3o85e0uqorsqipuib0c9fcvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

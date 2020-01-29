@@ -1,0 +1,17 @@
+Cannot open cookies file 'cookies.txt': No such file or directory
+--2019-04-26 14:28:41--  https://download.developer.apple.com/Developer_Tools/Xcode_10.2.1/Xcode_10.2.1.xip
+Resolving download.developer.apple.com (download.developer.apple.com)... 104.126.46.131
+Connecting to download.developer.apple.com (download.developer.apple.com)|104.126.46.131|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://developer.apple.com/unauthorized/ [following]
+--2019-04-26 14:28:44--  https://developer.apple.com/unauthorized/
+Resolving developer.apple.com (developer.apple.com)... 17.253.113.201, 17.253.113.202
+Connecting to developer.apple.com (developer.apple.com)|17.253.113.201|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'Xcode_10.2.1.xip.1'
+
+     0K .......... ..                                           104K=0.1s
+
+2019-04-26 14:28:44 (104 KB/s) - 'Xcode_10.2.1.xip.1' saved [12882]
+

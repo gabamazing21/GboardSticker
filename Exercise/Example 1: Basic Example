@@ -1,0 +1,56 @@
+Example 1: Basic Example
+wget https://docs.scrapy.org/en/latest/
+
+Example 2: Basic Template
+
+wget \
+ --recursive \
+ --no-clobber \
+ --page-requisites \
+ --html-extension \
+ --convert-links \
+ --restrict-file-names=unix \
+ --domains docs.scrapy.org \
+ --no-parent \
+ https://docs.scrapy.org/en/latest/
+
+
+Example 3: More Advanced Template
+wget \
+ --recursive \
+ --no-clobber \
+ --page-requisites \
+ --html-extension \
+ --convert-links \
+ --restrict-file-names=unix \
+ --domains docs.scrapy.org \
+ --wait=5 \
+ --limit-rate=20K \
+ --user-agent=Mozilla \
+ --level=10 \
+ --output-file /home/melvin/test/activity.txt \
+ --no-parent \
+ https://docs.scrapy.org/en/latest/ 
+
+
+ Other options
+ --random-wait
+
+
+wget \
+ --recursive \
+ --no-clobber \
+ --page-requisites \
+ --html-extension \
+ --convert-links \
+ --restrict-file-names=unix \
+ --domains resumes.guru\
+ --no-parent \
+http://resumes.guru/\
+
+
+
+
+
+
+
